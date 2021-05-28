@@ -1,0 +1,101 @@
+h2 {
+	margin: 0;
+}
+
+h4 {
+	margin: 0;
+}
+
+p {
+	margin: 0;
+}
+
+body {
+	margin: 0;
+}
+
+.row {
+	display: flex;
+}
+
+.test {
+	padding-right: 41px;
+	padding-left: 41px;
+}
+
+
+#advantages{
+	padding: 0 41px;
+}
+
+.container-fluid{
+}
+
+.col-12.col-md-12.col-lg-5.advantages-sf-img {
+	position: absolute;
+	width: 250px;
+	height: 270px;
+	right: 41px;
+}
+
+.col-12.col-md-12.col-lg-12 {
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 36px;
+	color: #3e5980;
+	margin-bottom: 50px;
+}
+
+.sf-img {
+	height: 100%;
+	width: 100%;
+	position: relative;
+}
+
+.col-12.col-md-6 {
+	width: 207px;
+	padding: 10px;
+}
+
+.advantage {
+	display: flex;
+}
+
+.advantage-img {
+	height: 36px;
+	min-width: 36px;
+	background: #ffffff;
+	box-shadow: 0px 4px 12px -2px rgb(83 83 83 / 25%);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50%;
+}
+
+.advantage-img img {
+	height: 12px;
+	width: 100%;
+}
+
+.advantage-text {
+	margin-left: 10px;
+	margin-top: 12px;
+}
+
+.advantage-text h4 {
+	font-weight: 500;
+	font-size: 12px;
+	line-height: 15px;
+}
+
+.advantage-text p {
+	font-weight: normal;
+	font-size: 9px;
+	line-height: 130%;
+}
+
+.advantage-text a {
+	font-weight: normal;
+	font-size: 7px;
+	line-height: 9px;
+}
